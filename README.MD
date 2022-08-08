@@ -7,7 +7,7 @@
 You should install dill, if you haven't already. Just type in e.g *pip install dill* in the command line in powershell or whatever program you're using.
 
 ## How to run the program:
-1. Start by navigating to the directory the file is in your terminal window, then type in e.g: python server.py localhost 1111
+1. Start by navigating to the directory the file is in your terminal window, then type in e.g: python/py server.py localhost 1111
 
     - The server will then give you a message, saying it has connected successfully and gone into listening mode. 
 2. Open up another terminal and navigate to the same file, except you'll have to type this in instead: python client.py localhost 1111
